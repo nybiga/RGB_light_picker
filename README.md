@@ -1,7 +1,7 @@
 # RGB_light_picker
 
 This project uses PlatformIO as it's ecosystem.
-It uses the serial monitor to take input from the user.
+It uses the serial monitor to take input from the user. The user types in a number from given list and the LED light changes to cooresponding color.
 
 ## Tools used
 
